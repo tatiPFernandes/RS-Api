@@ -11,18 +11,16 @@ Content-Type: application/json
 ###
 
 GET http://localhost:8080/products/
-
 ###
 
-Put http://localhost:8080/products/c9fa1ae5-1b33-48fa-8bf7-8ce691aff4dd
+Put http://localhost:8080/products/65294279-5580-4a6e-bbc1-fa953d61886a
 Content-Type: application/json
 
 {
 
-   "name": "Drill driver",
-   "description": "Keyless 12V Drill Driver, UK Plug",
-   "price": "£120.89"
+  "name": "Cutting Disc",
+  "description": "Aluminium Oxide Cutting Disc, 115mm x 1mm Thick, P60 Grit, BDX, 5 in pack",
+  "price": "£10.25"
 }
 
-###
- DELETE http://localhost:8080/products/1c7191f2-1c37-4f97-96b6-5b430b8b0a36
+
