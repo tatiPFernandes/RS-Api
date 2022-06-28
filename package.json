@@ -4,12 +4,16 @@
   "description": "REST API that allows consumers to add, update and read data",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll"
   },
   "author": "Tati Fernandes",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
     "nodemon": "^2.0.18"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "supertest": "^6.2.3"
   }
 }

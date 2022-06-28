@@ -1,14 +1,1 @@
-[
-    {
-        "stock_number": "7cb2af6c-937a-4148-b20a-83662cfbc6c4",
-        "name": "Pro Batteries",
-        "description": "RS Batteries",
-        "price": "£20.90"
-    },
-    {
-        "stock_number": "6205aa57-270b-4304-a8a8-86f70a80241c",
-        "name": "Drill Driver",
-        "description": "Keyless 12V Drill Driver, UK Plug",
-        "price": "£139.89"
-    }
-]
+[{"stock_number":"8e33f4be-3132-4e25-8f63-8f5c083adabf","name":"Carbon Fiber Sheet","description":"300mm x 300mm x 1mm","price":"£39.89"},{"stock_number":"c9fa1ae5-1b33-48fa-8bf7-8ce691aff4dd","name":"Drill driver","description":"Keyless 12V Drill Driver, UK Plug","price":"£120.89"},{"stock_number":"713664bf-72b1-4d5f-a8a1-192469f16784","name":"Abrasive Brush","description":"RS PRO Steel Circular Abrasive Brush, 75mm Diameter","price":"£34.26"},{"stock_number":"65294279-5580-4a6e-bbc1-fa953d61886a","name":"Cutting Disc","description":"Aluminium Oxide Cutting Disc, 115mm x 1mm Thick, P60 Grit, BDX, 5 in pack","price":"£10.25"}]
