@@ -78,5 +78,5 @@ routes.put("/products/:stock_number", (req, res) => {
 })
 
 
-module.exports = app
+
 module.exports = routes
