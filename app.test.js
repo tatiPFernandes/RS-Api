@@ -3,9 +3,9 @@ const app = require("./config/routes")
 
 
 
-test("POST /products --> add products", async () => {
+test("POST /products --> add products", () => {
 
-    const response = await request(app).post("/products").send({
+    const response = request(app).post("/products").send({
         name: "Drill Driver",
         description: "Keyless 12V Drill driver, UK Plug",
         price: "£120.89"

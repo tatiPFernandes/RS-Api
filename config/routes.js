@@ -2,6 +2,7 @@ const express = require("express");
 const routes = express.Router()
 const { randomUUID } = require("crypto");
 const fs = require("fs");
+const app = express()
 
 
 
@@ -77,5 +78,5 @@ routes.put("/products/:stock_number", (req, res) => {
 })
 
 
-
+module.exports = app
 module.exports = routes
